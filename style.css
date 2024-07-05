@@ -1,0 +1,32 @@
+body{
+    
+    background-image:url(https://images.hdqwalls.com/download/thanos-sword-helmet-xi-1920x1080.jpg);background-size: cover;
+    
+
+    
+
+}
+head{
+}
+h1{
+    color:white;
+    background-color:red;
+    border-radius: 100px;
+    width: 500px;
+}
+image{
+    border-radius: 30;
+    border-style:inset;
+    border-color:red;
+    height: 500;
+    width:1000;
+    border-left: 50px;
+    margin-left: 30;
+}
+h5{
+    background-color: azure;
+    border-radius: 100px;
+    border-width: 200;
+    border-style:double;
+    width: 120px;
+}
